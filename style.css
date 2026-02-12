@@ -29,11 +29,20 @@ body {
 .profile h1 {
     font-size: 26px;
     margin-bottom: 5px;
+    text-align: center;
 }
 
+.profile p{
+    text-align: center;
+}
 .role {
     color: #00c6ff;
     margin-bottom: 30px;
+}
+
+.profile-pic {
+  width: 250px;
+  height: auto;
 }
 
 .side-section {
